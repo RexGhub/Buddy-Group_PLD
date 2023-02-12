@@ -16,4 +16,4 @@ NB: Also include the one in the whatsapp group.
 
 ## Deadline: One week. 19TH FEB, 2023
 
-# HAE FUN.
+# HAVE FUN.
