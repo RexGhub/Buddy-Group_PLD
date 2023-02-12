@@ -14,5 +14,5 @@ int sumOfNumber, firstNumber, secondNumber
 
 	printf("The total of the numbers is: %d",sumOfNumber);
 
-	return 0
+	return 0;
 }
